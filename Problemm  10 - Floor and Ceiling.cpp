@@ -20,7 +20,7 @@ int main (){
 	    }
 	}else if (N=a){
 	    F = a;
-		C = a;
+	    C = a;
     }
  
  cout << F << " " << C << endl;
